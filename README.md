@@ -1,6 +1,6 @@
 ## Agenda
 
-Project developed with Ruby on Rails to register contacts.
+Project developed with Ruby on Rails to register contacts (CRUD).
 
 ## 📌 Index
 - ⚙ [Settings](#-settings)
