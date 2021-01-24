@@ -1,24 +1,45 @@
-# README
+## Agenda
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project developed with Ruby on Rails to register contacts.
 
-Things you may want to cover:
+## 📌 Index
+- ⚙ [Settings](#-settings)
+- 💻 [Technologies](#-technologies)
+- 🚀 [How to run](#-how-to-run)
+---
 
-* Ruby version
+## ⚙ Settings
+  Install the [Ruby and the Rails](https://guides.rubyonrails.org/getting_started.html) and to create the agenda project the [guide](https://www.devmedia.com.br/criando-uma-agenda-de-contatos-com-ruby-on-rails/33471) was followed.
+  
+---
 
-* System dependencies
+## 💻 Technologies
+    - Ruby on Rails
+    - JavaScript
+    - Css
+    - SQLite3
+    - Node.js
+---
 
-* Configuration
+## 🚀 How to run
 
-* Database creation
+  > Cloning the repository
+  ```bash
+    # Cloning repository
+    git clone https://github.com/antoniosergiojr/agenda.git
+  ```
 
-* Database initialization
+  > Running web project
+  ```bash
+    # Accessing web project
+    cd agenda
+    
+    # Install dependencies
+    npm i
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    # Running web project
+    rails server
+    Then access http://localhost:3000/contatos
+    
+  ```
+---
